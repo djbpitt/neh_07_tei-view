@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>NEH 07: reading view of story in HTML</description>
+    <author>David J. Birnbaum</author>
+    <website>http://www.obdurodon.org</website>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>neh_07_tei-view</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="neh" group="neh" mode="rw-rw-r--"/>
+<deployed>2019-12-30T14:13:53.522+01:00</deployed>
+</meta>
